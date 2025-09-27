@@ -1,8 +1,1 @@
-{
-  "Yuna": [
-    { "id": 1, "title": "Database", "name": "Yuna" }
-  ],
-  "Info": [
-    { "nama" :"admin", "usia": "35", "alamat": { "kota": "Bumi", "kodepos": 12345}}
-  ]
-}
+
