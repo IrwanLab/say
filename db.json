@@ -1,5 +1,5 @@
 {
   "Say": [
-    { "nama" :"Say", "usia": "23", "alamat": { "kota": "Bumi", "kodepos": 12345}}
+    { "nama" :"Say", "usia": "23", "alamat": "Bumi" }
   ]
 }
