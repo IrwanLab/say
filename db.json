@@ -1,6 +1,6 @@
 {
   "Profile": [
-    { "id": "1", "nama": "Say", "usia": "25", "T/T/G": "Contoh, 01-12-1925", "alamat": "Bumi", "Nomor HP": "1234" }
+    { "id": 1, "nama": "Say", "usia": "25", "T/T/G": "Contoh, 01-12-1925", "alamat": "Bumi", "Nomor HP": "1234" }
   ],
   "Profile": [
         {
@@ -9,7 +9,7 @@
             "author": "Amit"
         },
         {
-            "id": 2,
+            "id": 1,
             "title": "Node.js",
             "author": "Mohit"
         }
@@ -21,7 +21,7 @@
             "postId": 1
         },
         {
-            "id": 2,
+            "id": 1,
             "body": "Informative!",
             "postId": 2
         }
