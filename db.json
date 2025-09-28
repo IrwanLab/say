@@ -1,8 +1,8 @@
 {
   "Profile": [
-    { "nama": "Say", "usia": "25", "T/T/G": "Contoh, 01-12-1925", "alamat": "Bumi", "Nomor HP": "1234" }
+    { "id": "1", "nama": "Say", "usia": "25", "T/T/G": "Contoh, 01-12-1925", "alamat": "Bumi", "Nomor HP": "1234" }
   ],
-  "posts": [
+  "Profile": [
         {
             "id": 1,
             "title": "JSON-Server",
@@ -14,7 +14,7 @@
             "author": "Mohit"
         }
     ],
-    "comments": [
+    "Profile": [
         {
             "id": 1,
             "body": "Great post!",
@@ -26,7 +26,7 @@
             "postId": 2
         }
     ],
-    "profile": {
+    "info": {
         "name": "Amit Kumar"
     }
 }
